@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sashachinatown/to-do-app/static/css/main.0579d2f4.css",
-    "main.js": "/sashachinatown/to-do-app/static/js/main.6161e495.js",
+    "main.css": "/sashachinatown/to-do-app/static/css/main.c02f1e80.css",
+    "main.js": "/sashachinatown/to-do-app/static/js/main.a6a8ad72.js",
     "index.html": "/sashachinatown/to-do-app/index.html",
     "static/media/pending.svg": "/sashachinatown/to-do-app/static/media/pending.0b2902881243c5eee9a3dec8fc341b04.svg",
     "static/media/completed.svg": "/sashachinatown/to-do-app/static/media/completed.1407f3a5b63fe4df2290b863f7e13b6f.svg",
-    "main.0579d2f4.css.map": "/sashachinatown/to-do-app/static/css/main.0579d2f4.css.map",
-    "main.6161e495.js.map": "/sashachinatown/to-do-app/static/js/main.6161e495.js.map"
+    "main.c02f1e80.css.map": "/sashachinatown/to-do-app/static/css/main.c02f1e80.css.map",
+    "main.a6a8ad72.js.map": "/sashachinatown/to-do-app/static/js/main.a6a8ad72.js.map"
   },
   "entrypoints": [
-    "static/css/main.0579d2f4.css",
-    "static/js/main.6161e495.js"
+    "static/css/main.c02f1e80.css",
+    "static/js/main.a6a8ad72.js"
   ]
 }
